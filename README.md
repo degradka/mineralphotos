@@ -1,7 +1,7 @@
 # High quality photos of minerals
 Free of charge high quality photos of minerals
 
-This repository contains a collection of mineral photos in the root directory. The images are numbered from `img001.png` to `img010.png`. 
+This repository contains a collection of mineral photos in the root directory. The images are numbered from `img001.png` to `img01.png`. 
 
 ## Preview
 
@@ -19,6 +19,7 @@ Here's a preview of some of the mineral photos:
 | ![Mineral 8](img008.png) | Bauxite |
 | ![Mineral 9](img009.png) | Magnetite |
 | ![Mineral 10](img010.png) | Limonite |
+| ![Mineral 11](img011.png) | Earrings' Petrified Wood |
 
 Feel free to explore the repository to see all the mineral photos!
 
